@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+SmartContract/package-lock.json
+SmartContract/artifacts/
+SmartContract/cache/
+SmartContract/typechain/

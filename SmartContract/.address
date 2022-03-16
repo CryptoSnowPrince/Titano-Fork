@@ -1,0 +1,1 @@
+npx hardhat verify 0x17b97c4345E479Cb420c61858943Df1BAB35dD2D --network bsctestnet --contract contracts/Titano.sol:Titano
