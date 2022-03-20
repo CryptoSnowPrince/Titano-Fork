@@ -106,3 +106,5 @@ SmartContract/package-lock.json
 SmartContract/artifacts/
 SmartContract/cache/
 SmartContract/typechain/
+Frontend/build/
+Frontend/package-lock.json
